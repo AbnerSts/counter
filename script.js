@@ -1,4 +1,4 @@
-/* Abner Dos Santos Almeida 76030 */
+/* Abner Dos Santos Almeida - 76030 */
 let count = 0
 
 const value = document.getElementById("value")
